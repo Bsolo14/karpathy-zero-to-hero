@@ -2,7 +2,7 @@
 
 | Video | Duration | Progress |
 |-------|----------|----------|
-| **Micrograd** | 2h25m | 0/10 |
+| **Micrograd** | 2h25m | 5/10 |
 | **Makemore Part 1** | 1h57m | 0/10 |
 | **Makemore Part 2: MLP** | 1h15m | 0/10 |
 | **Makemore Part 3: BatchNorm** | 1h55m | 0/10 |
